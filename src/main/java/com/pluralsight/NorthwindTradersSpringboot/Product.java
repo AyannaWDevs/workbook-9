@@ -14,7 +14,7 @@ public class Product {
         this.price = price;
     }
 
-    // Getters and Setters
+    // Getters and setters
     public int getProductId() {
         return productId;
     }
